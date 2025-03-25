@@ -1,0 +1,6 @@
+{
+  "TEST_MODE": true,
+  "GALLERY_API_URL": "https://jsonplaceholder.typicode.com",
+  "DUMMY_JSON_API_URL": "https://dummyjson.com",
+  "LOOKUP_DOMAIN": "google.com"
+}
